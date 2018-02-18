@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+using NenrDZ7.Chromosomes;
+
+namespace NenrDZ7.Evaluation
+{
+    interface IEvaluator
+    {
+        double Evaluate(Chromosome c);
+        int FinalError(Chromosome c);
+    }
+}

@@ -1,0 +1,4 @@
+..\NenrDZ3\bin\Debug\NenrDZ3.exe
+1
+10
+20
